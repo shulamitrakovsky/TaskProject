@@ -1,0 +1,92 @@
+[
+    {
+        "UserId": 104,
+        "Username": "l",
+        "TaskManager": false,
+        "Password": "22"
+    },
+    {
+        "UserId": 105,
+        "Username": "Irena",
+        "TaskManager": false,
+        "Password": "12234567"
+    },
+    {
+        "UserId": 107,
+        "Username": "Dasi",
+        "TaskManager": false,
+        "Password": "dfgth5r45"
+    },
+    {
+        "UserId": 108,
+        "Username": "Gili",
+        "TaskManager": false,
+        "Password": "g78jkj"
+    },
+    {
+        "UserId": 109,
+        "Username": "RUTI",
+        "TaskManager": false,
+        "Password": "5trff"
+    },
+    {
+        "UserId": 7,
+        "Username": "y",
+        "TaskManager": true,
+        "Password": "2"
+    },
+    {
+        "UserId": 8,
+        "Username": "vg",
+        "TaskManager": false,
+        "Password": "gg"
+    },
+    {
+        "UserId": 9,
+        "Username": "jil",
+        "TaskManager": false,
+        "Password": "ojop"
+    },
+    {
+        "UserId": 10,
+        "Username": "vg",
+        "TaskManager": false,
+        "Password": "kk"
+    },
+    {
+        "UserId": 11,
+        "Username": "chevy",
+        "TaskManager": false,
+        "Password": "123"
+    },
+    {
+        "UserId": 12,
+        "Username": "shulamit",
+        "TaskManager": false,
+        "Password": "555"
+    },
+    {
+        "UserId": 13,
+        "Username": "vvv",
+        "TaskManager": false,
+        "Password": "4444"
+    },
+    {
+        "UserId": 14,
+        "Username": "vvv",
+        "TaskManager": false,
+        "Password": "zxx"
+    },
+    {
+        "UserId": 15,
+        "Username": "string",
+        "TaskManager": false,
+        "Password": "string"
+    },
+    {
+        "UserId": 16,
+        "Username": "uuu",
+        "TaskManager": false,
+        "Password": "ggg"
+    }
+]
